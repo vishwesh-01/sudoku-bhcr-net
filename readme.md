@@ -187,6 +187,12 @@ This will download the datasets (if not present), evaluate on 100k puzzles from 
 
 ---
 
+![alt text](<Screenshot231850.png>) ![alt text](<Screenshot170731.png>)
+
+
+
+
+
 ## Design Highlights
 
 - **Candidate mask cascading** – Initial naked singles are propagated before the network even starts, giving it a cleaner input.
