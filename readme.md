@@ -187,7 +187,7 @@ This will download the datasets (if not present), evaluate on 100k puzzles from 
 
 ---
 
-![alt text](<Screenshot231850.png>) ![alt text](<Screenshot170731.png>)
+![alt text](Screenshot231850.png) ![alt text](Screenshot170731.png)
 
 
 
